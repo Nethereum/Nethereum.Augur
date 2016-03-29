@@ -1,0 +1,17 @@
+﻿{
+  "version": "1.0.0-*",
+  "description": "Nethereum.Augur Class Library",
+  "authors": [ "Juan Blanco" ],
+  "tags": [ "" ],
+  "projectUrl": "",
+  "licenseUrl": "",
+  "dependencies": {
+    "Nethereum.ABI": "1.0.0-alpha-2",
+    "Nethereum.Hex": "1.0.0-alpha-2",
+    "Nethereum.Web3": "1.0.0-alpha-2"
+  },
+  "frameworks": {
+    "net451": { }
+  }
+} 
+
